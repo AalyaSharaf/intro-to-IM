@@ -1,1 +1,1 @@
-# intro-to-IM
+# IntroductionToIM
