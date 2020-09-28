@@ -10,3 +10,6 @@ This is where things got a little confusing to me. Initially, I created a class 
 
 
 [Video Animation](https://github.com/AalyaSharaf/intro-to-IM/blob/master/September29/VideoAnimation.mov)
+
+
+Rather than having scattered flowers, I decided to have moving circles in the background (something that would look somehwat similar to petals falling in the background). In order to do that I needed to have the line of circles as my class. 
