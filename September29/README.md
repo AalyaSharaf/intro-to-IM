@@ -8,3 +8,5 @@ The whole idea of my project was to have a design revolving around a flower. Thi
 
 
 Rather than having scattered flowers, I decided to have moving circles in the background (something that would look somehwat similar to petals falling in the background). In order to do that I needed to have the line of circles as my class. 
+
+![](VideoAnimation.gif)
