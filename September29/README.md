@@ -7,6 +7,6 @@ The whole idea of my project was to have a design revolving around a flower. Thi
 ![](FlowerDesign.png)
 
 
-Rather than having scattered flowers, I decided to have moving circles in the background (something that would look somehwat similar to petals falling in the background). In order to do that I created a class for the movingCircles in the background and worked from there. I was able to come up with the design shown below.
+Rather than having scattered flowers, I decided to have moving circles in the background (something that would look somehwat similar to petals falling in the background). In order to do that I created a class for the moving circles in the background and worked from there. I was able to come up with the design shown below.
 
 ![](VideoAnimation.gif)
