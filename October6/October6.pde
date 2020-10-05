@@ -41,7 +41,7 @@ void textDisplay() {
   i = (int) random(lines.length);
 
   // println(lines[i]);
-  // goes through the "phrases" file and randomly picks on eof the sentences
+  // goes through the "phrases" file and randomly picks on of the sentences
   textFont(fontB);
   fill(255,153,51);
   text(lines[i], 20, 260, 460, 500);
