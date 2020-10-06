@@ -1,4 +1,7 @@
 
+//The main concept of this week's assignment is to have a program that goes through random phrases (in a csv file) that completes the sentence
+//"Roses are red, Violets are blue,"
+
 //this is the initial fixed phrase
 String beginning = "Roses are red, Violets are blue,";
 String[] lines;
