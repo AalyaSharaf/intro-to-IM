@@ -4,7 +4,7 @@
 
 Below is a video of my project.
 
-![]()
+![](Animation.gif)
 
 The first thing that came to mind when brainstorming ideas for this week's project was a stickman! My project began with a simple animation of a stickman that moved across the screen when a key was pressed. The code essentially just randomly loaded through an array of stickman images, which then created the illusion of movement. 
 
