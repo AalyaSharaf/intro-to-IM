@@ -1,5 +1,7 @@
 # Midterm Project Journal
 
+### Note that all screenshots/videos of the different game stages will be found in my README page!
+
 In general, my project is space related. The idea being that there is a spaceship at the bottom of the screen and the main objective is to avoid the "meteorites" falling out of the sky. 
 
 #### October 18,2020
@@ -20,3 +22,8 @@ In general, my project is space related. The idea being that there is a spaceshi
 - One of the problems I somewhat was able to resolve was the issue of new meteorites appearing during the game. While I was able to partially resolve it, the result is still not what I want it to be. I find that a lot of my "meteorites" keep appearing consecutively in the same general location and doesn't make the game all that exciting.
 - I think the most challenging part for me is going to be when I have to figure out collisions and how that affects health  and score. At the moment, the game just continously runs with no way for it to end (or reach the game over screen).
 - The next steps are going to be working on figuring out how to add the health feature as well as a way to lose/end the game. I also want to work more on the meteorites that I currently have and improve them. 
+
+#### October 23,2020
+- The first thing I did was make it so that my spaceship cannot go off screen and I used parts of [this video](https://www.youtube.com/watch?v=JV5XBmaQdIA) as a reference. 
+- Second was try to figure out collisions. After watching [Daniel Shiffman's video](https://www.youtube.com/watch?v=uAfw-ko3kB8) I learned the basics of how to use the dist function and tried to implement it in my code. I tried multiple times and looked for more videos but still struggled a bit, so I descided to ask for help in our discord server. A peer helped me realize that I was on the right track but there were parts of my code that were missing. Fortunately they were easy additions. I haven't gone into the details of what happens between the objects interaction wise, I just used println("collisions") to confirm that it is infact working. 
+- The next thing I want to work on, is the interaction between the objects. I want to implement a lives system so that everytime you are hit by a meteor you lose a life and the game is over after you've lost all your lives. 
