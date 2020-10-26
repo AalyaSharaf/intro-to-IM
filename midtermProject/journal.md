@@ -35,4 +35,12 @@ In general, my project is space related. The idea being that there is a spaceshi
 - Those are the two things I want to work on tomorrow: the sound & the game lives
 
 #### October 25, 2020
-- This morning, I was finally able to figure out the game lives! At first, I was working with multiple if statements all with similar values which was what made the lives disappear all at once. What I should have done (and ended up doing) was have one if statement followed but else if statements so it isn't confusing and I could reach my desired outcome. I added conditions so that the next game life does not disappear until the one before is not present. For example the second life does not disappear until the third life is gone. I also did it so the meteorites would start from the top of the screen everytime a life is lost in order to avoid the glitch I ran into earlier. 
+- This morning, I was finally able to figure out the game lives! At first, I was working with multiple if statements all with similar values which was what made the lives disappear all at once. What I should have done (and ended up doing) was have one if statement followed but else if statements so it isn't confusing and I could reach my desired outcome. 
+- I added conditions so that the next game life does not disappear until the one before is not present. For example the second life does not disappear until the third life is gone. 
+- I also did it so the meteorites would start from the top of the screen everytime a life is lost in order to avoid the glitch I ran into earlier. 
+- Finally, I made it so everytime a life is lost, the screen flashes red as a warning to let you know that you have just lost a life. 
+
+#### October 26, 2020
+- I fixed the issue with sound. The way that I had it written in my draw function meant that it would play over and over again and that was what made it sound bad. With help from the discord server, I figured out how to make it work in draw, but later found that I prefered it in setup. I wanted it to be playing at all times anyways (regardless of the screen it was on), so that seemed like the more logical approach.
+- I also added an option where you can mute/unmute the music in case you prefer to play without the background music.
+- The last thing I did was just add finishing touches to my project: adding some images for design purposes, making sure my code was commented well, etc...
