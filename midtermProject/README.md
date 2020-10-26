@@ -1,5 +1,8 @@
 # Midterm Project
 
+### Game Description & Instructions
+
+
 ### My Progress/ Different Game Stages
 
 #### Stage 1
@@ -24,3 +27,6 @@
 - In this stage, the game lives work so you have 3 lives before the game is over. I added red flashed that appear on the screen to warn you that you have lost a life.
 - I added SciFi background music and gave the player the choice to either mute or unmute it based on their preference. 
 - I also added some images for design purposes
+
+
+### Problems & Solutions
