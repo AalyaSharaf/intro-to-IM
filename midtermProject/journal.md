@@ -41,6 +41,6 @@ In general, my project is space related. The idea being that there is a spaceshi
 - Finally, I made it so everytime a life is lost, the screen flashes red as a warning to let you know that you have just lost a life. 
 
 #### October 26, 2020
-- I fixed the issue with sound. The way that I had it written in my draw function meant that it would play over and over again and that was what made it sound bad. With help from the discord server, I figured out how to make it work in draw, but later found that I prefered it in setup. I wanted it to be playing at all times anyways (regardless of the screen it was on), so that seemed like the more logical approach.
+- I fixed the issue with sound. The way that I had it written in my draw function meant that it would play over and over again and that was what made it sound bad. With help from the discord server & [this website](https://processing.org/reference/libraries/sound/SoundFile_isPlaying_.html) from processing, I figured out how to make it work in draw, but later found that I prefered it in setup. I wanted it to be playing at all times anyways (regardless of the screen it was on), so that seemed like the more logical approach.
 - I also added an option where you can mute/unmute the music in case you prefer to play without the background music.
 - The last thing I did was just add finishing touches to my project: adding some images for design purposes, making sure my code was commented well, etc...
