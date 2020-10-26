@@ -2,6 +2,7 @@
 
 ### Game Description & Instructions
 
+My midterm project is a space themed video game. On the screen, you have a spaceship and the main objective is to avoid the metoerites falling out the sky! You do this by using the 'a' & 'd' or 'left' & 'right' keys on your keyboard. You start the game with 3 lives and everytime you get hit by a meteorite is a life lost. Once you have lost all three lives, the game is over!
 
 ### My Progress/ Different Game Stages
 
@@ -50,4 +51,4 @@ Refresh page if videos are not playing for some reason :)
 
 4) The fourth issue I ran into was the game lives. I struggled with it a lot and almost considered changing it to a simpler scoreboard but I am glad I didn't because I quite like the way it turned out. The main issue was that instead of the game lives disappearing one by one, they would disappear all at once. I came to realize that the reason it was like this was because I was using multiple if statements that had similar conditions and that made them disappear at once. In order to fix this issue, I made it so I was using one main if statment followed by else if statements that made the game lives work more effectively. As well as fixing my mistakes with the statements, I made it so the meteorites would have a quick reset to the top of the screen as I noticed it made the system work more effeciently. 
 
-4) 
+5) The last thing is the sound. I initially had it playing in draw not realizing that it would cause it to play over & over again which resulted in it sounding very bad. To resolve that, I used the command isPlaying() to check whether or not the track is playing before actually playing it. This allowed it to run smoother in draw, but I opted to put it in setup. The reason I did this was because I had wanted the track to play at all times, regardless of what gamescreen I was on, so it just made more sense to have in setup where it would be a constant in the game. 
