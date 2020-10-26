@@ -35,9 +35,8 @@ void setup() {
     meteorites[i] = new Meteorite();
   }
 
-  //I opted to play the sound in setup rather than draw
-  //It worked just fine in draw but I wanted the song to play at all times anyways so it
-  //made more sense to have it in setup
+  //I opted to play the sound in setup rather than draw.
+  //It worked just fine in draw but I wanted the song to play at all times anyways so it made more sense to have it in setup
 
   GameSound.play();
   GameSound.amp(0.08);
