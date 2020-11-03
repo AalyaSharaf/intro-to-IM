@@ -2,10 +2,12 @@
 
 ### Assignment Idea
 
-- The idea of this assignment was to have a light pattern appear, and the task is to press on the buttons (momentary switches) that correspond to the LED lgihts in color and try to repeat the pattern that was just displayed. 
-- Below is my schematic
+- The idea of this assignment was to have a light pattern appear, and the task is to press on the buttons (momentary switches) that correspond to the LED lights in color and try to repeat the pattern that was just displayed. 
+- I couldn't get the video to upload for some reason, but as I previously explained a pattern would appear and you have to repeat it. As for the green switch, it displays the light pattern again when it is pressed.
 
 ![](Schematic.jpg)
+
+![](AssignmentPhoto.jpg)
 
 ### Issues I ran into:
 
