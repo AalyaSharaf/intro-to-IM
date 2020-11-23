@@ -2,7 +2,7 @@
 
 #### Project Idea
 
-For this week's communications project, I decided to modify the game I  had developed for our midterm project. You can find a more detailed explanation of how the game works [here](). Previously the game was controlled using the arrows keys or the 'a' & 'd' keys, now the new and modified version is controlled using the ultrasonic (distance) sensor in order to move from left to right. 
+For this week's communications project, I decided to modify the game I  had developed for our midterm project. You can find a more detailed explanation of how the game works [here](https://github.com/AalyaSharaf/intro-to-IM/blob/master/midtermProject/README.md). Previously the game was controlled using the arrows keys or the 'a' & 'd' keys, now the new and modified version is controlled using the ultrasonic (distance) sensor in order to move from left to right. 
 
 #### Probelms/ Issues
 
