@@ -4,7 +4,7 @@
 
 For this week's communications project, I decided to modify the game I  had developed for our midterm project. You can find a more detailed explanation of how the game works [here](https://github.com/AalyaSharaf/intro-to-IM/blob/master/midtermProject/README.md). Previously the game was controlled using the arrows keys or the 'a' & 'd' keys, now the new and modified version is controlled using the ultrasonic (distance) sensor in order to move from left to right. 
 
-You can see how the game works now [here](https://drive.google.com/file/d/1Q2LwqFXjmQcKnLCWN4trcrR0w_DTm39h/view?usp=sharing)
+The video of this week's project can be found [here](https://drive.google.com/file/d/1Q2LwqFXjmQcKnLCWN4trcrR0w_DTm39h/view?usp=sharing)
 
 And attached below is my simple arduino schematic:
 
