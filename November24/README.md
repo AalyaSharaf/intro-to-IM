@@ -8,6 +8,8 @@ The video of this week's project can be found [here](https://drive.google.com/fi
 
 And attached below is my arduino schematic:
 
+![](Nov24Schematic.jpeg)
+
 #### Problems/ Issues
 
 To be honest I struggled with the idea of communications much more than I expected. A lot of the issues I ran into just came form a lack of understanding of the concept, it was just a difficult one to grasp for me. That is why I decided to focus all my energy on the communications aspect of the project rather than the game designing. I spent a lot of time rewatching class recordings, watching yotube videos, and entering arduino forums to see solutions to similar problems peoplemay have ran into. I found that the forums specifically helped a lot with troubleshooting and helped me recognize any silly mistakes I may have made. The combination of these resources helped me gain a better understanding of the concept and I was able to successfully implement communications between my arduino and my processing game. 
