@@ -1,3 +1,3 @@
 # Project Idea
 
-![](ProjectBrainstorm.jpg)
+![](Brainstorm.jpeg)
