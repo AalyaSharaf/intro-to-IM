@@ -7,3 +7,10 @@
 
 ![](ProjectBrainstorm.jpeg)
 
+## My Progress
+
+#### November 27, 2020
+
+- What I focused on today is designing my game on processing. 
+- I started on figuring out the design I want for each of my screens (home, game, gameover) and then I worked on how to transition between them.
+- Next, I worked on my music notes/ tiles, things like their position on the screen and making them appear at random positions.
