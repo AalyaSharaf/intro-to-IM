@@ -20,3 +20,8 @@
 - The next thing I worked on is trying to implement the controls and making the game actually work. 
 - For today, I worked on making the game work specifically on processing, making sure that if specific keys are pressed it would work. I will work on transitioning into arduino in the coming days.
 - I found that the best aproach I could take was to use boolean statements since they can only be true or false. [Daniel Shiffman's tutorials](https://www.youtube.com/watch?v=_NJqfZUQ3i4) were an easy way to better understand the concept and made it easier for me to implement them in my code. 
+
+#### November 29, 2020
+- Today I worked on trying ot build a communication between arduino and processing.
+- The main thing I did is connecting 4 momentary switches, so that when one of them is pressed, the text appears through the println function.
+- 
