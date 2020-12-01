@@ -24,4 +24,4 @@
 #### November 29, 2020
 - Today I worked on trying ot build a communication between arduino and processing.
 - The main thing I did is connecting 4 momentary switches, so that when one of them is pressed, the text appears through the println function.
-- 
+- I still haven't figured out how to make the switches work in relation to game as I am still trying ot navigate the concept of communication but hopefully I will have it done within the next week. 
