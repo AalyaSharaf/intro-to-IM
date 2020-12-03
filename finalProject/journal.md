@@ -28,3 +28,10 @@
 - Today I worked on trying ot build a communication between arduino and processing.
 - The main thing I did is connecting 4 momentary switches, so that when one of them is pressed, the text appears through the println function.
 - I still haven't figured out how to make the switches work in relation to game as I am still trying ot navigate the concept of communication but hopefully I will have it done within the next week. 
+
+#### December 3, 2020
+- The past few days I have been looking for different resources that could be helpful in helping me solve my issue with my buttons. 
+- I found some [forums](https://forum.processing.org/two/discussion/11076/processing-arduino-buttons) (mostly people trying to debug their code) as well as youTube videos that helped me understand the concept of communications more clearly but I still haven't come up with a way to make my buttons work as controls. 
+- To test whether my buttons worked with my notes, I made it so when a button is pressed, the tile corresponding with the button color would reset its y position to 0.
+- It did thankfully work so the next step will hopefully be transitioning my processing controls onto the arduino.
+- Another adjustement I made was the number of tiles. Initially, I wanted to have 6 tiles that corresponded to 3 buttons, so that each button corresponds to a color, as well as having a combination of 2 buttons that would correspond to another colored tile. I decided to scrap that idea for the time being and figure out the very basics of having one button linked to one color and make sure that works effectively. Once I have figured that out, maybe I can work on bringing back my previous idea (if I have time).
