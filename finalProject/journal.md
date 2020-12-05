@@ -39,7 +39,7 @@
 #### December 4, 2020
 - On the issue of my switches being used as controls, I realized that I was focusing on the wrong thing. At first I thought the issue may have been from processing, but after seeing that the communication between arduino and processing was working fine on processing's end, I decided to focus on arduino. It turns out that was where my issue was. The way the communication worked between the 2 programs was that each color corresponded to a number on the serial monitor (red = 1, blue = 2, etc...) and I realized that the issue was in the way arduino relayed its information to processing. For example, once the red button was pressed, the serial monitor would continue to display the number for the color red and that was it (even after the button was released). This blocked the other buttons from being recognized in the program. 
 - The way I fixed this issue was in the way the if statements were worded & making sure that after the button would be released, the number 0 would be displayed. That was essential in order to make sure that processing could distinguish between the different buttons. 
-- In addition to that, I added a speed/ level feature so that everytime you reached a certain score, the level of the game (meaning the speed) increases. 
+- In addition to that, I added a speed/ level feature so that everytime you reached a certain score, the level of the game (meaning the speed) increases. I wanted to use the potentiometer to control the speed but when I thought about it, I decided that I didnt want the level of the game to be a manual option but rather a "built-in" feature. 
 
 #### December 5, 2020
 - Today I didn't work on anything technical and focused on the design of the game, since it isnt the most aesthetic. 
