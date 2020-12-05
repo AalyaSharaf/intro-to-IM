@@ -35,3 +35,11 @@
 - To test whether my buttons worked with my notes, I made it so when a button is pressed, the tile corresponding with the button color would reset its y position to 0.
 - It did thankfully work so the next step will hopefully be transitioning my processing controls onto the arduino.
 - Another adjustement I made was the number of tiles. Initially, I wanted to have 6 tiles that corresponded to 3 buttons, so that each button corresponds to a color, as well as having a combination of 2 buttons that would correspond to another colored tile. I decided to scrap that idea for the time being and figure out the very basics of having one button linked to one color and make sure that works effectively. Once I have figured that out, maybe I can work on bringing back my previous idea (if I have time).
+
+#### December 4, 2020
+- On the issue of my switches being used as controls, I realized that I was focusing on the wrong thing. At first I thought the issue may have been from processing, but after seeing that the communication between arduino and processing was working fine on processing's end, I decided to focus on arduino. It turns out that was where my issue was. The way the communication worked between the 2 programs was that each color corresponded to a number on the serial monitor (red = 1, blue = 2, etc...) and I realized that the issue was in the way arduino relayed its information to processing. For example, once the red button was pressed, the serial monitor would continue to display the number for the color red and that was it (even after the button was released). This blocked the other buttons from being recognized in the program. 
+- The way I fixed this issue was in the way the if statements were worded & making sure that after the button would be released, the number 0 would be displayed. That was essential in order to make sure that processing could distinguish between the different buttons. 
+
+#### December 5, 2020
+- Today I didn't work on anything technical and focused on the design of the game, since it isnt the most aesthetic. 
+- I still want to work on the idea of having 6 notes corresponding to 3 buttons. I don't know whether that is possible or not but it is definitely something I want to explore. 
