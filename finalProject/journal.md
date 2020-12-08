@@ -8,7 +8,7 @@
 - The first is a simple idea of having to hit the right notes on the processing screen 
 -  Another idea is to incorporate the concept of a musical instrument with a simple game design so that the notes control the direction in which a character moves in a game... 
 
-![](ProjectBrainstorm.jpeg)
+![](media/ProjectBrainstorm.jpg)
 
 
 ## My Progress
