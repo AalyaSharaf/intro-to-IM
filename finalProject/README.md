@@ -1,6 +1,6 @@
 # Final Project
 
-## Project Progress
+### Project Progress
 
 #### Day 1
 - Since the midterm project, I feel like my understanding of processing has improved and it has become easier to use than it was at the beginning of the year so that was where I decided to start my project.
@@ -18,4 +18,4 @@
 
 #### Day 6
 
-## Problems I ran into
+### Problems I ran into
