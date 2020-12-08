@@ -29,7 +29,7 @@
 ![](media/day4.gif)
 
 #### Day 5
-- I figured out that the issues with my switches weren't from processing but from arduino and the way I had written the code over there (further details can be found in [my journal]())
+- I figured out that the issues with my switches weren't from processing but from arduino and the way I had written the code over there (further details can be found in [my journal](https://github.com/AalyaSharaf/intro-to-IM/blob/master/finalProject/journal.md))
 - I also added levels which meant that the speed would increase as your score did (to add a bit of challenge to the game)
 
 ![](media/day5.gif)
