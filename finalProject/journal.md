@@ -44,3 +44,8 @@
 #### December 5, 2020
 - Today I didn't work on anything technical and focused on the design of the game, since it isnt the most aesthetic. 
 - I still want to work on the idea of having 6 notes corresponding to 3 buttons. I don't know whether that is possible or not but it is definitely something I want to explore. 
+
+#### December 7, 2020
+- The project's due date is coming up and I don't know if I'll be able to finish this in time but I want to add one final thing before the due date.
+- I want to incorporate sound into the game. A backtrack will be playing on the processing wndow, but I also want to incorporate the buzzer into arduino for smaller sound effects in the game, like a sound for when the game is won or lost. 
+- Anything that I can't finish I will definitely continue to work on even after the due date because I really want to fully complete the project, I feel like it has been a great learning experience for me :)
