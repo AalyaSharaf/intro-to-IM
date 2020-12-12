@@ -14,41 +14,45 @@ Below are images of my schematic as well as the physical Arduino
 
 ### Project Progress
 
-Note that any further details on the project can be found on [this page](https://github.com/AalyaSharaf/intro-to-IM/blob/master/finalProject/journal.md)
+Note that any further details on the project and my progress throughout it can be found on [this page](https://github.com/AalyaSharaf/intro-to-IM/blob/master/finalProject/journal.md)
 
 #### Stage 1
 - Since the midterm project, I feel like my understanding of processing has improved and it has become easier to use than it was at the beginning of the year so that was where I decided to start my project.
 - The first thing I did was work on creating different game screens to transition between
-- After that I worked on the desing of the game, not the aesthetic but rather how the game would generally work.
+- After that I worked on the design of the game, not the aesthetic but rather how the game would generally work.
 
 ![](media/day1.gif)
 
 #### Stage 2
-- I worked on the code of the game itself, but focused on making it work only on processing (so using the key pressed function). 
+- I worked on the code of the game itself, but focused on making it work only on processing. 
+- In this stage, the game is working through the keyboard of my laptop (I still haven't transitioned to Arduino controls)
 
 ![](media/day2.gif)
 
 #### Stage 3
 - I worked on figuring out the communications between processing and arduino.
-- I used a println function, a simple way to figure out whether the buttons pressed in arduino were communicating properly to arduino
+- I have my buttons connected to my Arduino but it is not actually controlling anything in the game yet
+- I used a println function, a simple way to figure out whether the buttons pressed in arduino were communicating properly to arduino, so that is the text that you are seeing on the screen. 
 
 ![](media/day3.gif)
 
 #### Stage 4
 - My switches weren't doing what I wanted them to (which was take the place of the keys as controls) so I focused mostly on research and searching the web to see if anybody was runnong into similar issues and looking for ways to resolve them.
-- To see if the momentary switches were working, I made it so the notes were reset to the top of the screen everytime a switch was pressed.
+- In this video, I seemply made it so that if the buttons were pressed, the notes would reset to the top of the screen.
+- I did this to make sure that communication between the two programs was working, and I was able to see that it was in fact working thorugh this (I just had to figure out a way to make it work as controls now)
 
 ![](media/day4.gif)
 
 #### Stage 5
-- I figured out that the issues with my switches weren't from processing but from arduino and the way I had written the code over there
-- I also added levels which meant that the speed would increase as your score did (to add a bit of challenge to the game)
+- Since the buttons were working fine in terms of communication on Processing, I decided to check things on Arduino's end.
+- I found an issue in the way that I had written my if statements. The way the information was relayed to processing was unclear, so once I fixed that (details in my journal, Day ), the Arduino was working as the controls of the game.
+- I also added levels which meant that the speed would increase as your score did (to add a bit of challenge to the game).
+- One thing I did have to modify is how fast the game actually went because I found that the faster the notes went, the less the buttons and Arduino would respond to the game. It was an issue I was not able to fully resolve so I just decided to have to speed increase, but not too much that the game would be compromised
 
 ![](media/day5.gif)
 
 #### Stage 6
-- I didn't work on anything technical and just focused on the aesthetic and design of the game
+- I didn't work on anything technical and just focused on the aesthetic and design of the game: things like how the screens looked, font of the text, the shape of the notes displayed on the screen, etc... 
 
 ![](media/day6.gif)
 
-### Problems I ran into
