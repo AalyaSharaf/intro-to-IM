@@ -8,9 +8,9 @@ Below are images of my schematic as well as the physical Arduino
 
 ![](media/finalProjectSchematic.jpeg) ![](media/ProjectPic1.jpg) ![](media/ProjectPic2.jpg)
 
-Click here to see what happens when you win the game!
+[Click here](https://drive.google.com/file/d/11Az_ILbjyO3sr4XAodourlsNjHxdMoxv/view?usp=sharing) to see what happens when you win the game!
 
-Click here to see what happens when you lose the game :(
+[Click here](https://drive.google.com/file/d/1o83kbVLAjv9bGUAkooLmdgRasNP2tJl4/view?usp=sharing) to see what happens when you lose the game :(
 
 ### Project Progress
 
