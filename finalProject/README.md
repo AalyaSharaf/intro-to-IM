@@ -2,6 +2,16 @@
 
 ## Project Idea
 
+For my final project I really wanted to do something musical. Just to quickly explain, the whole point of the game is hitting the musical notes when they reach the horizontal line at the bottom of the screen. Your score increases everytime you hit the note and the more notes you get, the faster they move on the screen. The game was inspired by those music learning apps that always pop up as advertisements to youTube videos. The concept is different in terms of the purpose of my game and the idea does differ, but that was where I got the inspiration to do something musical. 
+
+Below are images of my schematic as well as the physical Arduino
+
+![](media/finalProjectSchematic.jpeg) ![](media/ProjectPic1.jpg) ![](media/ProjectPic2.jpg)
+
+Click here to see what happens when you win the game!
+
+Click here to see what happens when you lose the game :(
+
 ### Project Progress
 
 Note that any further details on the project can be found on [this page](https://github.com/AalyaSharaf/intro-to-IM/blob/master/finalProject/journal.md)
