@@ -45,7 +45,7 @@ Note that any further details on the project and my progress as well as any issu
 
 #### Stage 5
 - Since the buttons were working fine in terms of communication on Processing, I decided to check things on Arduino's end.
-- I found an issue in the way that I had written my if statements. The way the information was relayed to processing was unclear, so once I fixed that (details in my journal, Day ), the Arduino was working as the controls of the game.
+- I found an issue in the way that I had written my if statements. The way the information was relayed to processing was unclear, so once I fixed that (details in my journal, under December 4th), the Arduino was working as the controls of the game.
 - I also added levels which meant that the speed would increase as your score did (to add a bit of challenge to the game).
 - One thing I did have to modify is how fast the game actually went because I found that the faster the notes went, the less the buttons and Arduino would respond to the game. It was an issue I was not able to fully resolve so I just decided to have to speed increase, but not too much that the game would be compromised
 
