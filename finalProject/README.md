@@ -14,7 +14,7 @@ Below are images of my schematic as well as the physical Arduino
 
 ### Project Progress
 
-Note that any further details on the project and my progress throughout it can be found on [this page](https://github.com/AalyaSharaf/intro-to-IM/blob/master/finalProject/journal.md)
+Note that any further details on the project and my progress as well as any issues I ran into throughout it can be found on [this page](https://github.com/AalyaSharaf/intro-to-IM/blob/master/finalProject/journal.md)
 
 #### Stage 1
 - Since the midterm project, I feel like my understanding of processing has improved and it has become easier to use than it was at the beginning of the year so that was where I decided to start my project.
